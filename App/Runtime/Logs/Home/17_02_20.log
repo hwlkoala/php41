@@ -1,0 +1,48 @@
+[ 2017-02-20T14:13:27+08:00 ] 127.0.0.1 /index.php/Home/Test/read/id/5
+ERR: 模板不存在:./App/Home/View/Test/read.html
+
+[ 2017-02-20T16:18:21+08:00 ] 127.0.0.1 /index.php/Home/Test/read
+ERR: 参数错误或者未定义:id
+
+[ 2017-02-20T16:34:02+08:00 ] 127.0.0.1 /index.php/Home/Test/wrete
+ERR: 非法操作:wrete
+
+[ 2017-02-20T16:36:44+08:00 ] 127.0.0.1 /index.php/Home/Test/Test/write
+ERR: 非法操作:Test
+
+[ 2017-02-20T16:38:04+08:00 ] 127.0.0.1 /index.php/Home/Test/Test/write
+ERR: 非法操作:Test
+
+[ 2017-02-20T16:38:11+08:00 ] 127.0.0.1 /index.php/Home/Test/Test/read
+ERR: 非法操作:Test
+
+[ 2017-02-20T16:50:53+08:00 ] 127.0.0.1 /index.php/Home/Test/Test/read
+ERR: 非法操作:Test
+
+[ 2017-02-20T16:50:55+08:00 ] 127.0.0.1 /index.php/Home/Test/Test/read
+ERR: 非法操作:Test
+
+[ 2017-02-20T16:51:04+08:00 ] 127.0.0.1 /index.php/Home/Test/Test/write
+ERR: 非法操作:Test
+
+[ 2017-02-20T16:52:25+08:00 ] 127.0.0.1 /index.php/Home/Test/Test/write
+ERR: 非法操作:Test
+
+[ 2017-02-20T16:52:26+08:00 ] 127.0.0.1 /index.php/Home/Test/Test/read
+ERR: 非法操作:Test
+
+[ 2017-02-20T16:52:27+08:00 ] 127.0.0.1 /index.php/Home/Test/Test/write
+ERR: 非法操作:Test
+
+[ 2017-02-20T16:52:28+08:00 ] 127.0.0.1 /index.php/Home/Test/Test/write
+ERR: 非法操作:Test
+
+[ 2017-02-20T16:52:28+08:00 ] 127.0.0.1 /index.php/Home/Test/Test/read
+ERR: 非法操作:Test
+
+[ 2017-02-20T16:52:29+08:00 ] 127.0.0.1 /index.php/Home/Test/Test/write
+ERR: 非法操作:Test
+
+[ 2017-02-20T17:45:50+08:00 ] 127.0.0.1 /index.php/Home/test/read
+ERR: Think\Model:creat方法不存在！
+

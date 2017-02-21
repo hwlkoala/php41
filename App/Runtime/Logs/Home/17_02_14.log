@@ -1,0 +1,24 @@
+[ 2017-02-14T10:22:16+08:00 ] 127.0.0.1 /index.php/Home/Index/user
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sesc LIMIT 5' at line 1
+
+[ 2017-02-14T11:02:02+08:00 ] 127.0.0.1 /index.php/Home/Index/user
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( id=6 )' at line 1
+
+[ 2017-02-14T11:03:09+08:00 ] 127.0.0.1 /index.php/Home/Index/user
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( id=6 )' at line 1
+
+[ 2017-02-14T11:37:47+08:00 ] 127.0.0.1 /index.php/Home/Index/user
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'score' in 'having clause'
+
+[ 2017-02-14T16:22:21+08:00 ] 127.0.0.1 /index.php/Home/Index/user
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list'
+
+[ 2017-02-14T16:22:54+08:00 ] 127.0.0.1 /index.php/Home/Index/user
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list'
+
+[ 2017-02-14T16:27:00+08:00 ] 127.0.0.1 /index.php/Home/Index/user
+ERR: SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+
+[ 2017-02-14T17:41:41+08:00 ] 127.0.0.1 /index.php/Home/Index/fanwei
+ERR: 表达式错误:glt
+

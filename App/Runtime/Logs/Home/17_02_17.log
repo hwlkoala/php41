@@ -1,0 +1,24 @@
+[ 2017-02-17T10:44:44+08:00 ] 127.0.0.1 /index.php/Home/User/UserController.class.php
+ERR: 非法操作:UserController.class.php
+
+[ 2017-02-17T10:56:22+08:00 ] 127.0.0.1 /index.php/Home/User/test.php
+ERR: 非法操作:test.php
+
+[ 2017-02-17T10:57:05+08:00 ] 127.0.0.1 /index.php/Home/User/test.php
+ERR: 非法操作:test.php
+
+[ 2017-02-17T12:22:07+08:00 ] 127.0.0.1 /index.php/Home/User/show.html
+ERR: XML标签语法错误 : name='data' item=$v 
+
+[ 2017-02-17T14:39:27+08:00 ] 127.0.0.1 /index.php/Home/Imgs/imgs
+ERR: 非法操作:imgs
+
+[ 2017-02-17T14:42:00+08:00 ] 127.0.0.1 /index.php/Home/User/upload.html
+ERR: 非法操作:upload
+
+[ 2017-02-17T14:47:27+08:00 ] 127.0.0.1 /index.php/Home/User/upload.html
+ERR: 非法操作:upload
+
+[ 2017-02-17T14:47:51+08:00 ] 127.0.0.1 /index.php/Home/User/upload.html
+ERR: 非法操作:upload
+
